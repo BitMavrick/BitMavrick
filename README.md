@@ -14,12 +14,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
-[<img align="left" alt="codeSTACKr.com" width="48px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="codeSTACKr | YouTube" width="48px" src="https://img.icons8.com/color/50/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="48px" src="https://img.icons8.com/color/50/000000/instagram-new--v1.png" />][instagram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://img.icons8.com/color/50/000000/stackoverflow.png" />][stack]
-[<img align="left" alt="codeSTACKr | Twitter" width="48px" src="https://img.icons8.com/color/50/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="md.mehedi.unaux | website" width="48px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
+[<img align="left" alt="facebook.com/Mehedi705" width="48px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="Mehedi Hasan | Linkedin" width="48px" src="https://img.icons8.com/color/50/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="instagram.com/Mehedi705 | instagram" width="48px" src="https://img.icons8.com/color/50/000000/instagram-new--v1.png" />][instagram]
+[<img align="left" alt="Mehedi Hasan | Stackoverflow" width="48px" src="https://img.icons8.com/color/50/000000/stackoverflow.png" />][stack]
+[<img align="left" alt="twitter.com/Mehedi705 | Twitter" width="48px" src="https://img.icons8.com/color/50/000000/twitter--v1.png" />][twitter]
 
 <br />
 

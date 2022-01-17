@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Mehedi Hasan
 
-[![Website](https://img.shields.io/website?label=md.mehedi.unaux.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://md.mehedi.unaux.com)
+[![Website](https://img.shields.io/website?label=mehedi-hasan.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://mehedi-hasan.herokuapp.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mehedi705?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mehedi705)
 
 #### I'm a Software Engineer!!
@@ -23,7 +23,7 @@
 
 <br />
 
-[website]: http://md.mehedi.unaux.com
+[website]: http://mehedi-hasan.herokuapp.com/
 [facebook]: https://facebook.com/Mehedi705
 [linkedin]: https://www.linkedin.com/in/mehedi-hasan-27a329192
 [instagram]: https://www.instagram.com/mehedi705

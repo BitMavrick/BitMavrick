@@ -23,7 +23,7 @@
 
 <br />
 
-[website]: http://mehedi-hasan.herokuapp.com/
+[website]: http://mehedi-hasan.me/
 [facebook]: https://facebook.com/Mehedi705
 [linkedin]: https://www.linkedin.com/in/mehedi-hasan-27a329192
 [instagram]: https://www.instagram.com/mehedi705

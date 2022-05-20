@@ -24,9 +24,9 @@
 <br />
 
 [website]: http://mehedi-hasan.me/
-[facebook]: https://facebook.com/Mehedi705
+[facebook]: https://facebook.com/thealter71
 [linkedin]: https://www.linkedin.com/in/mehedi-hasan-27a329192
-[instagram]: https://www.instagram.com/mehedi705
+[instagram]: https://www.instagram.com/thealter71
 [stack]: https://stackoverflow.com/users/14274660/mehedi-hasan
 [twitter]: https://twitter.com/thealter72
 

@@ -28,5 +28,5 @@
 [linkedin]: https://www.linkedin.com/in/mehedi-hasan-27a329192
 [instagram]: https://www.instagram.com/mehedi705
 [stack]: https://stackoverflow.com/users/14274660/mehedi-hasan
-[twitter]: https://twitter.com/Mehedi705
+[twitter]: https://twitter.com/thealter72
 

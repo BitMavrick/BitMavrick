@@ -1,32 +1,10 @@
-### Hi there 👋
+<h1> Hello < World / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-### It's Mehedi Hasan
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi,+It's+Mehedi+(BitMavrick)+;I'm+a+Software+Engineer...;also+a+Web+Developer.;and+Android+Developer;Nice+to+meet+you!!!)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/website?label=mehedi-bd.epizy.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://mehedi-bd.epizy.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheAlter72?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=thealter72)
 
-#### Quick things about me!!
 
-- 🌱 I want to grow-up.🙂
-- 🔭 Currently learning everything 🤣
-- 👯 Looking to collaborate with other programmers.😊
-- 🥅 2023 Goals: Contribute more to Open Source projects!😎
-- ⚡ Fun fact: I love to do new things.🧐
 
-### Connect with me:
-
-[<img align="left" alt="md.mehedi.unaux | website" width="48px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
-[<img align="left" alt="facebook.com/Mehedi705" width="48px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="Mehedi Hasan | Linkedin" width="48px" src="https://img.icons8.com/color/50/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="instagram.com/Mehedi705 | instagram" width="48px" src="https://img.icons8.com/color/50/000000/instagram-new--v1.png" />][instagram]
-[<img align="left" alt="Mehedi Hasan | Stackoverflow" width="48px" src="https://img.icons8.com/color/50/000000/stackoverflow.png" />][stack]
-[<img align="left" alt="twitter.com/Mehedi705 | Twitter" width="48px" src="https://img.icons8.com/color/50/000000/twitter--v1.png" />][twitter]
-
-<br />
-
-[website]: http://mehedi-bd.epizy.com
-[facebook]: https://facebook.com/thealter71
-[linkedin]: https://www.linkedin.com/in/mehedi-hasan-27a329192
-[instagram]: https://www.instagram.com/thealter71
-[stack]: https://stackoverflow.com/users/14274660/mehedi-hasan
-[twitter]: https://twitter.com/thealter72
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitMavrick&theme=dracula)

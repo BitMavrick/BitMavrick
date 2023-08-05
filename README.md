@@ -3,7 +3,7 @@
 <span align="center">
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi,+It's+Mehedi+(BitMavrick)+;I'm+a+Software+Engineer...;also+a+Web+Developer.;and+Android+Developer;Nice+to+meet+you!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi,+It's+Mehedi+(BitMavrick)+;I'm+a+Software+Engineer...;Also+a+Web+Developer.;And+Android+Developer;Nice+to+meet+you!!!)](https://git.io/typing-svg)
 
 <span align="left">
 

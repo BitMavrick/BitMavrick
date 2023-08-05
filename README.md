@@ -20,13 +20,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-<!-- Snake -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
 <br />
 
 
@@ -65,8 +58,8 @@
 
 <span align="center">
 
-![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=BitMavrick&show_icons=true&theme=tokyonight) __ ![Mehedi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BitMavrick&theme=light)
-
+| ![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=BitMavrick&show_icons=true&theme=tokyonight) | ![Mehedi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BitMavrick&theme=light) |
+| --- | --- |
 
 
 <br>

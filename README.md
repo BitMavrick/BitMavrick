@@ -43,7 +43,7 @@
 
  🔭 Love to learn new things
 
- 🌱 Always hate messey UI degins 
+ 🌱 Hate messey UI designs 
 
  💬 Open to collaboration
 
@@ -51,7 +51,7 @@
 
  ✍ Fact: I learn the most through my mistakes
 
- ⚡ Fact: Can't sleep if the solutions dont work
+ ⚡ Fact: Can't sleep if the solutions don't work
 
  🌱 Nature Lover
 

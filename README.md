@@ -5,9 +5,13 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi,+It's+Mehedi+(BitMavrick)+;I'm+a+Software+Engineer...;also+a+Web+Developer.;and+Android+Developer;Nice+to+meet+you!!!)](https://git.io/typing-svg)
 
+<span align="left">
+
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+
+<span align="left">
 
 <span align="left">
 

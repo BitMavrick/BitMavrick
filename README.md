@@ -14,7 +14,7 @@
 
 <span align="right">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BitMavrick&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BitMavrick&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BitMavrick&theme=dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BitMavrick&theme=dracula)
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -27,8 +27,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
+
+ 
 ![GitHub followers](https://img.shields.io/github/followers/BitMavrick?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/BitMavrick?style=social)<img src="https://komarev.com/ghpvc/?username=BitMavrick" alt="" />
 
+
+  
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **Things About Me**
 
 

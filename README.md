@@ -10,16 +10,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-<span align="left">
 
-<span align="left">
+<span align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitMavrick&theme=dracula)
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BitMavrick&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitMavrick&theme=dracula) |
+| --- | --- |
 
 
-<span align="right">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BitMavrick&theme=dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BitMavrick&theme=dracula)
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             

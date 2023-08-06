@@ -13,7 +13,9 @@
 
 <span align="center">
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BitMavrick&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitMavrick&theme=dracula) |
+<!-- Here -->
+
+| ![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=BitMavrick&show_icons=true&theme=dracula) | ![Mehedi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BitMavrick&theme=dracula) |
 | --- | --- |
 
 
@@ -64,8 +66,7 @@
 
 <span align="center">
 
-
-| ![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=BitMavrick&show_icons=true&theme=dracula) | ![Mehedi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BitMavrick&theme=dracula) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitMavrick&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BitMavrick&theme=dracula) |
 | --- | --- |
 
 

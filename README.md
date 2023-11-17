@@ -66,8 +66,10 @@
 
 <span align="center">
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitMavrick&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BitMavrick&theme=dracula) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitMavrick&theme=dracula) | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BitMavrick&theme=dracula"/> |
 | --- | --- |
+
+
 
 
 <br>
